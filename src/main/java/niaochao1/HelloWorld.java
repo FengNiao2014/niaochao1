@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println(StringUtils.isBlank("    "));
 		
 		System.out.print("Hello World");
+		
+		System.out.println("Hello World from l3");
 	}
 
 }
